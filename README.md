@@ -30,7 +30,7 @@ Samsung/
 
 
 ## Demo
-You can watch the output demonstration video below (if your viewer supports embedded video):
+You can watch the output demonstration video below (if your viewer do not supports embedded video): visit 'assets/Videos/output.mp4'
 
 <video src="assets/Videos/output.mp4" controls width="600">
    Your browser does not support the video tag.
