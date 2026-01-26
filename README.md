@@ -28,8 +28,13 @@ Samsung/
    ```
 3. **Open `index.html` in your browser**
 
+
 ## Demo
-A demonstration of the webpage can be found in `assets/Videos/output.mp4`.
+You can watch the output demonstration video below (if your viewer supports embedded video):
+
+<video src="assets/Videos/output.mp4" controls width="600">
+   Your browser does not support the video tag.
+</video>
 
 ## Screenshots
 You can add screenshots of the webpage here for a quick preview.
